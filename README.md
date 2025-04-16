@@ -1,2 +1,1 @@
-# Event_Handling
-THE App.js and ButtonClick.js contains the desired code.
+THE App.js and ButtonClick.js contains the desired code
